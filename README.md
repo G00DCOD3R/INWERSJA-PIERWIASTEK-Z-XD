@@ -1,5 +1,4 @@
 # INWERSJA-PIERWIASTEK-Z-XD
-our hash code repository
 
 
 templates for Hash Code
